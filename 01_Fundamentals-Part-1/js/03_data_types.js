@@ -37,3 +37,4 @@ console.log(typeof year);
 
 //null normalde ama type of bunu object olarak gösterir.
 console.log(typeof null);
+console.log("Test Commit");
